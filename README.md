@@ -1,8 +1,8 @@
 # learn-java
 java from day one
-● Design, implement, and maintain robust and scalable CI/CD pipelines to automate software builds,
-testing, and deployments. 
-● Integrate various development, testing, and deployment tools into the CI/CD workflow using Jenkins.
+- Design, implement, and maintain robust and scalable CI/CD pipelines to automate software builds,
+testing, and deployments.
+- Integrate various development, testing, and deployment tools into the CI/CD workflow using Jenkins.
 ● Manage and optimize artifact repositories using Artifactory for efficient storage, versioning, and
 distribution of binaries and dependencies.
 ● Implement and manage static code analysis gates using SonarQube & CheckmarxOne within the CI/CD
